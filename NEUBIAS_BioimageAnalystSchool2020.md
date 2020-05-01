@@ -6,7 +6,7 @@ Place: Janelia Research Campus
 Organizers: 
 
 - Ulrike Boehm (Janelia Research Campus, USA) 
-- Markus Mustermann (Heidelberg University, Germany)
+- Markus Mustermann (Janelia Research Campus, USA)
 
 ## Aim
 
