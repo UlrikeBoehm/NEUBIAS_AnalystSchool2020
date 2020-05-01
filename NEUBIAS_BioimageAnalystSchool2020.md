@@ -1,12 +1,12 @@
-# NEUBIAS Bioimage Analyst School 2020
+# Bioimage Analyst School 2021
 
-Dates: Feb. 29 - Mar.3, 2019
-Place: Bordeaux
+Dates: Feb. 29 - Mar.3, 2021
+Place: Janelia Research Campus
 
 Organizers: 
 
-- Marion Louveaux (Institut Pasteur, France) 
-- Kota Miura (Heidelberg University, Germany)
+- Ulrike Boehm (Janelia Research Campus, USA) 
+- Markus Mustermann (Heidelberg University, Germany)
 
 ## Aim
 
